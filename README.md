@@ -10,7 +10,7 @@ Simple and structured code for building REST APIs with Node.js using Typescript.
 - Typescript
 - Zod Validation
 
-## Consepts
+## Concepts
 - Rest API principles (CRUD & HTTP)
 - JWT & Refresh Token
 - Request Validation
